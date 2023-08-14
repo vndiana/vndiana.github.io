@@ -4,7 +4,7 @@ title: "Hello Word"
 author: "drC"
 categories: sample
 tags: [sample]
-image: 
+image: watermarked_0_nhzIqeLX.png
 ---
 
 # Hello Word!
